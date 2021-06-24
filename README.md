@@ -24,4 +24,4 @@ Let's start the task and predict the score of a student if he studies for 9.25 h
 9.	Summary
 
 ## Summary:
-We have successfully build the Regression Algorithm with an accuracy of 94.5% and we can say that if the students study for 9.5 Hrs per day they can score around 94 Marks (Rounded up from 93.69)
+We have successfully build the Regression Algorithm with an accuracy of 94.5% and we can say that if the students study for 9.5 Hrs per day they can score around 94 Marks (Rounded up from 93.69%)
